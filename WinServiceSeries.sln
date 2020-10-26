@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinWorkerService", "WinWorkerService\WinWorkerService.csproj", "{918871E4-A85A-445C-8F65-DBCD56AF569B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerilogFun", "SerilogFun\SerilogFun.csproj", "{20A016FB-E600-43C3-AA3A-86691CEC0F90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{918871E4-A85A-445C-8F65-DBCD56AF569B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918871E4-A85A-445C-8F65-DBCD56AF569B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918871E4-A85A-445C-8F65-DBCD56AF569B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918871E4-A85A-445C-8F65-DBCD56AF569B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20A016FB-E600-43C3-AA3A-86691CEC0F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A016FB-E600-43C3-AA3A-86691CEC0F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A016FB-E600-43C3-AA3A-86691CEC0F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A016FB-E600-43C3-AA3A-86691CEC0F90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBA25D52-F21D-4EF8-B574-C0C9C1297592}
+	EndGlobalSection
+EndGlobal
