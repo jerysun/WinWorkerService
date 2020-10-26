@@ -33,6 +33,7 @@ Use the following Cmdlets: New-Service, Start-Service, Get-Service, Stop-Service
 
 
 ## Note:
+- binPath must be a FULL path
 - Build it in Release mode
 - Deploy it with the Administrator privilege
 
