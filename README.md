@@ -16,7 +16,7 @@ Yes. Old times in .NET framework, it's really painful of debugging the Windows S
   
 sc create WinWorkerService DisplayName="Windows Worker Service Demo" binPath="C:\fullPath\to\WinWorkerService.exe"
  
-	* tart a Windows Service
+	* Start a Windows Service
   
 sc start WinWorkerService
  
